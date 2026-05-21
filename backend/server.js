@@ -18,7 +18,7 @@ const app = express()
 app.use(
   cors({
     origin:
-      "https://team-task-manager-three-beta.vercel.app/",
+      "https://team-task-manager-three-beta.vercel.app",
     credentials: true,
   })
 )

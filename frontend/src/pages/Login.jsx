@@ -84,7 +84,7 @@ function Login() {
               />
             </div>
 
-            <h1 className="text-2xl font-bold text-white mt-5">
+            <h1 className="text-3xl font-bold text-white mt-5">
               Team Task Manager
             </h1>
 

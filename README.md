@@ -16,6 +16,18 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application for m
 
 ---
 
+# Demo Id's 🆔 
+
+# Admin
+Email : admin@gmail.com
+Password : admin1
+
+# Member 
+Email : member1@gmail.com
+Password : member1
+
+---
+
 # 📂 GitHub Repository
 
 Add your GitHub repository link here:
